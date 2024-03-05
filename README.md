@@ -7,13 +7,10 @@
 
 ##
 
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloTojeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloTojeiro&layout=compact&langs_count=16&theme=dark"/>
-  </div>
+<div>
+  <a href=https://github.com/DaniloTojeiro></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloTojeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloTojeiro&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
