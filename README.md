@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Atualmente estudando Java/Spring
+- 🌱 Atualmente estudando Java/Spring, Python e SQL
 - 📫 danilotojeiro@live.com
 
 ##
